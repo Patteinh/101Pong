@@ -12,7 +12,7 @@ This project is inspired by the classic games of Pong and Breakout, focusing on 
 - **Compilation:** Via Makefile, including `re`, `clean`, and `fclean` rules.
 - **Binary Name:** 101pong
 
-## Project Overview 📜
+## Project Overview 🔎
 
 The goal of this project is to simulate the 3D trajectory of a ball in a Pong game. Your program will calculate and display the following:
 
